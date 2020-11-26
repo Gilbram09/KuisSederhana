@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kuis Sederhana</string>
+    <string name="soeharto">Soeharto</string>
+    <string name="jokowi">Jokowi</string>
+    <string name="megawati">Megawati</string>
+    <string name="soekarno">Soekarno</string>
+    <string name="next"><![CDATA[Next ->]]></string>
+    <string name="nama_text">nama_text</string>
+</resources>
